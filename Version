@@ -1,0 +1,12 @@
+Version:- 13.0.0.0
+    - Arreglando el problema de la vista de las reservas . para control de estas y sus estados (Hanoi)
+
+Version:- 13.0.0.1
+    - Arreglando el problema de la rebaja de los productos del stock cuando se hace la reservacion en el dia de la entrega (Hanoi)
+
+Version:- 13.0.0.2
+    - Arreglando el problema del monto minimo. para que sea escojido desde la configuracion (lordford)
+
+Version:- 13.0.0.3
+	- Arreglando el filtrado de la vista de las reservas para poder filtrar por fechas. la muestra en el JS pues el filtro funciona por fechas
+
